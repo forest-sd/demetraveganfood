@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demetraveganfood.pages.dev/sitemap.xml
